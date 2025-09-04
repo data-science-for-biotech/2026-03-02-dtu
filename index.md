@@ -9,12 +9,12 @@ country: "dk"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "55.786772"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "12.520214"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "March 11th-14th, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "September 9th-12th, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00-16:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2025-03-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2025-03-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2025-09-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2025-03-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Kai Blin", "Marjan Mansourvar"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Niels Jakob Larsen", "Christian Kronborg Cantalapiedra"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Niels Jakob Larsen", "Christian Kronborg Cantalapiedra", "Felicia Cara Schulz"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kblin@biosustain.dtu.dk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
